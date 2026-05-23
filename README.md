@@ -2,11 +2,11 @@
 ## <u> Project overview
 This project explores the factors that influence used BMW resale pricing through data analytics, machine learning, and business intelligence visualization techniques. Using a dataset of 10,000+ BMW vehicle listings sourced from Kaggle, the analysis focused on identifying pricing trends, evaluating depreciation patterns, and developing predictive models to estimate vehicle resale prices. The project combines statistical analysis, machine learning, dashboard development, and executive-style storytelling to generate actionable insights into the used vehicle market.
 
-## <u> Python analysis <\u>
+## <u> Python analysis
 The analytics were conducted in Python using libraries including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. The dataset was first cleaned and transformed through processes such as feature engineering, unit conversions, handling missing values, and exploratory data analysis. Visualizations were created to examine relationships between variables such as mileage, vehicle age, fuel type, engine size, and resale price. Machine learning models including Linear Regression and Random Forest Regression were then developed to predict vehicle prices and evaluate model performance using metrics such as RMSE, MAE, and R². Feature importance analysis was also performed to identify the strongest drivers of resale value.
 
-## <u> Power BI dashboard development <\u>
+## <u> Power BI dashboard development
 The cleaned datasets and model outputs generated in Python were exported as CSV files and imported into Power BI to create an interactive business intelligence dashboard. 3 dashboard pages were designed to present different aspects of the analysis, including market overviews, pricing deep dives, predictive model performance, and executive takeaways. Interactive visuals such as scatterplots, histograms, KPI cards, bar charts, and slicers were incorporated to allow users to explore pricing trends across BMW models, fuel types, and vehicle characteristics. The dashboard was designed with a clean executive-style layout to emphasize readability, storytelling, and insight communication.
 
-## <u> Executive presentation and storytelling <\u>
+## <u> Executive presentation and storytelling
 The findings from the analysis were summarized in an executive-style PowerPoint presentation designed to communicate technical insights in a clear and business-oriented format. The presentation highlighted major findings such as depreciation behavior, key resale value drivers, predictive modeling results, and strategic market insights derived from the dashboard and machine learning analysis. Visual storytelling techniques were used to present complex analytical results in a concise and accessible way, simulating the style of presentations commonly delivered to leadership and business stakeholders in analytics and consulting environments.
