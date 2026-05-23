@@ -1,5 +1,5 @@
 # BMW-Price-Prediction-Market-Analysis
-## <u> Project overview <\u>
+## <u> Project overview
 This project explores the factors that influence used BMW resale pricing through data analytics, machine learning, and business intelligence visualization techniques. Using a dataset of 10,000+ BMW vehicle listings sourced from Kaggle, the analysis focused on identifying pricing trends, evaluating depreciation patterns, and developing predictive models to estimate vehicle resale prices. The project combines statistical analysis, machine learning, dashboard development, and executive-style storytelling to generate actionable insights into the used vehicle market.
 
 ## <u> Python analysis <\u>
