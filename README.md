@@ -10,3 +10,5 @@ The cleaned datasets and model outputs generated in Python were exported as CSV 
 
 ## <u> Executive presentation and storytelling
 The findings from the analysis were summarized in an executive-style PowerPoint presentation designed to communicate technical insights in a clear and business-oriented format. The presentation highlighted major findings such as depreciation behavior, key resale value drivers, predictive modeling results, and strategic market insights derived from the dashboard and machine learning analysis. Visual storytelling techniques were used to present complex analytical results in a concise and accessible way, simulating the style of presentations commonly delivered to leadership and business stakeholders in analytics and consulting environments.
+
+Dataset source: https://www.kaggle.com/datasets/itszubi/bmw-car-sales-dataset
